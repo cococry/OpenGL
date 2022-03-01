@@ -1,0 +1,3 @@
+[submodule "OpenGL/vendor/GLFW"]
+	path = OpenGL/vendor/GLFW
+	url = https://github.com/cococry/glfw
